@@ -30,14 +30,6 @@ This project demonstrates expertise in **React Router, Redux Toolkit and Tailwin
 - **Interactive context menus** for enhanced usability.
 - **Smooth modals** for order confirmations and alerts.
 
-## 📚 What You’ll Learn
-By working on **Pizza Order Pro**, I:
-- Gained hands-on experience with **modern React tools**.
-- Learnt **how to plan & structure professional React projects**.
-- Mastered **React Router’s data loading features**.
-- Understood **real-world use cases of Redux Toolkit**.
-
-
 💡 Looking for a developer who can build **high-quality, real-world applications**? Let’s connect!
 
 📧 **Contact me:** [alvintegutwo@gmail.com]
